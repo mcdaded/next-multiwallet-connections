@@ -3,7 +3,7 @@ import Head from "next/head";
 
 export default function Home() {
   function onClickConnectWallet1(event) {
-    console.log("clicked button 1");
+    console.log("clicked button ");
   }
 
   function onSendWalletTrans1(event) {
